@@ -4,6 +4,7 @@
 
 Совершенно с этим согласен!
 
+## Instruction for Github
 1. Create account on Github
 2. Create local rep.(on PC)
 3. Need make friends local and remote rep. 
